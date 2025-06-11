@@ -1,0 +1,58 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing:  border-box
+}
+
+ .nav {
+    width :100%;
+    height :90px;
+    line-height: 80px;
+    background-color: red;
+    padding: 0px 10%
+} 
+
+.nav  .logo{
+    float: left;
+    font-size: 60px;
+    color: aliceblue;
+    font-weight: bold;
+}
+.nav  .menu{
+    float: right;
+}
+.menu a {
+     color: aliceblue;
+     text-decoration: none;
+     width: 110px;
+    display: inline-block;
+    font-size: 23px;
+}
+.menu a:hover{
+      transition: all .2s;
+      font-size: 26px;
+      text-decoration: underline;
+}   
+
+
+
+.title{
+    font-size: 45px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+
+
+.footer{
+       width :100%;
+    height :120px;
+    line-height: 120px;
+    background-color: rgba(0, 255, 204, 0.7);
+    padding: 0px 10%;
+     text-align: center;
+     font-size: 45px;
+     flood-color: rgb(240, 255, 254);
+     margin-top: 0px;
+}

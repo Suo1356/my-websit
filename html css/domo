@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Rangitoto</title>
+    <link rel="stylesheet" href="css/style.css"  />
+</head>
+<body>
+    
+<div class="nav">
+  <div class="logo">
+    🏫Rangitoto College
+  </div>
+  <div class="menu">
+    <a href="">🏫Home</a>
+    <a href="">🏫setting</a>
+    <a href="">🏫Require</a>
+    <a href="">🏫Apply</a>
+    <a href="">🏫About</a>
+  </div>
+</div>
+
+
+<div class="swiper">
+    <div class="banner">
+
+<img src="截屏2025-05-15 下午2.03.29.png">
+<img src="截屏2025-05-15 下午2.03.39.png">
+<img src="截屏2025-05-15 下午2.03.51.png">
+<img src="截屏2025-05-15 下午2.04.04.png">
+<img src="截屏2025-05-15 下午2.04.57.png">
+<img src="截屏2025-05-15 下午2.03.29.png">
+    </div>
+</div>
+
+<div class="title">Welcome to Rangitoto</div>
+
+<div class="Introduction">
+
+<div class="Introduction1">
+<h3>Rangitoto-Introduction</h3>
+<p>Welcome
+Our success comes from good leadership
+highly qualified teachers, a strong curriculum and outstanding facilities combining to create a supportive and inspiring learning environment. Students enjoy our safe and culturally diverse school, developing their intellectual, emotional and social potential.
+We aim to develop creativity, social responsibility and leadership qualities in our students. Cultural activities in Visual Arts, Music, Dance and Drama are complemented by sporting excellence and overseas exchange visits.
+</p>
+
+</div>
+
+<img src="download.jpg">
+
+</div>
+
+<hr>
+<div class="title">Studying at Rangitoto</div>
+
+<ul class="Academic">
+
+<li>
+    <img src="download-1.jpg">
+    <h3>
+        Academic success
+    </h3>
+
+    <p>The highly-qualified teachers, strong curriculum and outstanding facilities at the school,
+combine to create a supportive and inspiring learning environment. Students enjoy our safe and culturally diverse school, developing their intellectual, emotional and social potential.
+Being a large school, we have the ability to tailor learning to student needs and cater for the diverse interests of individual students. This is illustrated by the 60 different course options on offer
+Both National Certificates of Educational Achievement (NCEA) and the International Baccalaureate (IB) qualifications are offered at Rangitoto College</p>
+
+<img src="download-1.jpg">
+    <h3>
+        Academic success
+    </h3>
+
+    <p>The highly-qualified teachers, strong curriculum and outstanding facilities at the school,
+combine to create a supportive and inspiring learning environment. Students enjoy our safe and culturally diverse school, developing their intellectual, emotional and social potential.
+Being a large school, we have the ability to tailor learning to student needs and cater for the diverse interests of individual students. This is illustrated by the 60 different course options on offer
+Both National Certificates of Educational Achievement (NCEA) and the International Baccalaureate (IB) qualifications are offered at Rangitoto College</p>
+
+
+
+<img src="download-1.jpg">
+    <h3>
+        Academic success
+    </h3>
+
+    <p>The highly-qualified teachers, strong curriculum and outstanding facilities at the school,
+combine to create a supportive and inspiring learning environment. Students enjoy our safe and culturally diverse school, developing their intellectual, emotional and social potential.
+Being a large school, we have the ability to tailor learning to student needs and cater for the diverse interests of individual students. This is illustrated by the 60 different course options on offer
+Both National Certificates of Educational Achievement (NCEA) and the International Baccalaureate (IB) qualifications are offered at Rangitoto College</p>
+
+</li>
+
+
+</ul>
+
+
+
+</body>
+</html>
